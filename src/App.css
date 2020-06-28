@@ -1,0 +1,11 @@
+html, body{
+    overflow-x: hidden;
+}
+
+.App{
+    width: 100%;
+}
+
+.MuiInput-underline:hover:not(.Mui-disabled):before {
+    border-bottom: 2px solid rgba(255, 255, 255, 0.87) !important;
+}
