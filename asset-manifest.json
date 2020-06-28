@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/GOworkers-EMTMadrid-page/static/css/main.7f10303e.chunk.css",
+    "main.js": "/GOworkers-EMTMadrid-page/static/js/main.ff5296f9.chunk.js",
+    "main.js.map": "/GOworkers-EMTMadrid-page/static/js/main.ff5296f9.chunk.js.map",
+    "runtime-main.js": "/GOworkers-EMTMadrid-page/static/js/runtime-main.10633a40.js",
+    "runtime-main.js.map": "/GOworkers-EMTMadrid-page/static/js/runtime-main.10633a40.js.map",
+    "static/js/2.7af6a05e.chunk.js": "/GOworkers-EMTMadrid-page/static/js/2.7af6a05e.chunk.js",
+    "static/js/2.7af6a05e.chunk.js.map": "/GOworkers-EMTMadrid-page/static/js/2.7af6a05e.chunk.js.map",
+    "index.html": "/GOworkers-EMTMadrid-page/index.html",
+    "precache-manifest.2325b706e9d13e914a3ec4a3b984e339.js": "/GOworkers-EMTMadrid-page/precache-manifest.2325b706e9d13e914a3ec4a3b984e339.js",
+    "service-worker.js": "/GOworkers-EMTMadrid-page/service-worker.js",
+    "static/css/main.7f10303e.chunk.css.map": "/GOworkers-EMTMadrid-page/static/css/main.7f10303e.chunk.css.map",
+    "static/js/2.7af6a05e.chunk.js.LICENSE.txt": "/GOworkers-EMTMadrid-page/static/js/2.7af6a05e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.10633a40.js",
+    "static/js/2.7af6a05e.chunk.js",
+    "static/css/main.7f10303e.chunk.css",
+    "static/js/main.ff5296f9.chunk.js"
+  ]
+}
