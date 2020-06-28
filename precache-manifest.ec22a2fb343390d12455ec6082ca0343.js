@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d6d65050ee47761ae2a01102156b1323",
+    "revision": "841073937f55ced4c0acced03d5c9560",
     "url": "/GOworkers-EMTMadrid-page/index.html"
   },
   {
-    "revision": "a50276b3ac7d3655e087",
+    "revision": "0b43fbdb022b153a1ae0",
     "url": "/GOworkers-EMTMadrid-page/static/css/main.7f10303e.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/GOworkers-EMTMadrid-page/static/js/2.7af6a05e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a50276b3ac7d3655e087",
-    "url": "/GOworkers-EMTMadrid-page/static/js/main.ff5296f9.chunk.js"
+    "revision": "0b43fbdb022b153a1ae0",
+    "url": "/GOworkers-EMTMadrid-page/static/js/main.4dc926d2.chunk.js"
   },
   {
     "revision": "a779a7f4399f5928c6df",
