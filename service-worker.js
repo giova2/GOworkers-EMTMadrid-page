@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/GOworkers-EMTMadrid-page/precache-manifest.ec22a2fb343390d12455ec6082ca0343.js"
+  "/GOworkers-EMTMadrid-page/precache-manifest.1770679354006fbfd2438e2113698e65.js"
 );
 
 self.addEventListener('message', (event) => {
